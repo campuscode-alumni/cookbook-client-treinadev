@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title":"Bolo de fubá",
+    "difficulty": "Médio",
+    "cook_time": 50,
+    "ingredients": "Farinha, açucar, cenoura",
+    "cook_method":"Cozinhe a cenoura, corte em pedaços pequenos, misture com o restante dos ingredientes"
+  },
+  {
+    "id": 2,
+    "title":"Bolo de banana",
+    "difficulty": "Fácil",
+    "cook_time": 40,
+    "ingredients": "Banana",
+    "cook_method":"Misturar e assar"
+  }
+]
