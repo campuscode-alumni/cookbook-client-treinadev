@@ -3,4 +3,4 @@ development:
 production:
   base_url: https://example.com.br/
 test:
-  base_url: https://example.com.br/
+  base_url: http://0.0.0.0:3000
