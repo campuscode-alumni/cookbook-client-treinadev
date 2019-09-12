@@ -18,7 +18,6 @@ feature "Visitor visit homepage" do
     expect(page).to have_css("li", text: 'Médio')
     expect(page).to have_css("li", text: '50')
     expect(page).to have_css("li", text: 'Farinha, açucar, cenoura')
-
     expect(page).to have_css("h1", text: 'Bolo de banana')
     expect(page).to have_css("li", text: 'Fácil')
     expect(page).to have_css("li", text: '40')
